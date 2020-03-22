@@ -1,0 +1,3 @@
+/Users/xkirax/Dropbox/CPP/coursera/yellow/w_1_pa_2_avg_temperature_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xkirax/Dropbox/CPP/coursera/yellow/w_1_pa_2_avg_temperature_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xkirax/Dropbox/CPP/coursera/yellow/w_1_pa_2_avg_temperature_2/cmake-build-debug/CMakeFiles/w_1_pa_2_avg_temperature_2.dir

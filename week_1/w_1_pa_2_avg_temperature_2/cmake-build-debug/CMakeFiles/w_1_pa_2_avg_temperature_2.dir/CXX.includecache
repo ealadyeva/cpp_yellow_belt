@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xkirax/Dropbox/CPP/coursera/yellow/w_1_pa_2_avg_temperature_2/main.cpp
+iostream
+-
+vector
+-
+cstdint
+-
+
